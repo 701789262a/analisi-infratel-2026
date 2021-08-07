@@ -1,5 +1,6 @@
 # analisi-infratel-2026
-
+| CITTA | CIVICI | 1000M | 300M | PERCENTUALE COPERTURA |
+| ----------| ------ | ------ | ------- | ---- |
 | ASSEMINI | 9846 | 9327 | 0 | 94 % |
 | CAGLIARI | 38732 | 38348 | 0 | 99 % |
 | SARROCH | 2643 | 1777 | 0 | 67 % |
