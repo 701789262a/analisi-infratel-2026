@@ -69,7 +69,7 @@
 | SANTA TERESA GALLURA | 1785 | 0 | 1722 | 96 % |
 | TELTI | 1333 | 0 | 1329 | 99 % |
 
-##LOMBARDIA
+## LOMBARDIA
 
 | CITTA | CIVICI | 1000M | 300M | PERCENTUALE COPERTURA |
 | ----------| ------ | ------ | ------- | ---- |
