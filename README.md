@@ -1,4 +1,6 @@
-# analisi-infratel-2026
+# COPERTURA INFRATEL AL 2026
+## SARDEGNA
+
 | CITTA | CIVICI | 1000M | 300M | PERCENTUALE COPERTURA |
 | ----------| ------ | ------ | ------- | ---- |
 | ASSEMINI | 9846 | 9327 | 0 | 94 % |
